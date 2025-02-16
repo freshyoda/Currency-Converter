@@ -1,8 +1,8 @@
-* {
+    * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font-family: 'CAMAROON MEGALORD', sans-serif;
+    font-family: 'LUNAR', sans-serif;
 }
 
 body {
@@ -81,6 +81,12 @@ form input{
     font-size: 1rem;
     width: auto;
 }
+
+/* .select-container select:hover{
+    background: #03071E;
+    color: #D00;
+} */
+
 
 .msg{
     text-align: center;
